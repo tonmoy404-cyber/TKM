@@ -5,7 +5,7 @@
        git clone https://github.com/tonmoy404-cyber/TKM.git
        cd TKM
        git pull
-       python TONMOY.py
+       python TKM.py
 # NOTE :
  `•` `This Tools Are Paid So You Need Permission To Use TKM Tools.`
 
