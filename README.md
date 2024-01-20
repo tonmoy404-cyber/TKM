@@ -7,5 +7,5 @@
        git pull
        python TKM.py
 # NOTE :
- `•` `This Tools Are Paid So You Need Permission To Use TKM Tools.`
+ `•` `This Tools Are Free So You No Need Permission To Use TKM Tools.`
 
